@@ -1,4 +1,4 @@
-# Aykhan026
+# Kenan
 Söz oyunu. 7000-dən çox söz ilə
 
 # Qurulum
